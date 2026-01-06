@@ -1,7 +1,7 @@
 ![creolytix_cover](https://github.com/user-attachments/assets/c3d60b67-104b-4103-bd4b-6ca18c5f9b5e)
 
 # 👋 Hi, I’m Asadullah Refat  
-🚀 VP of Engineering | 🧠 Systems Thinker | 👨‍💻 Still a hands-on Programmer
+🚀 VP of Engineering | 🧠 Systems Thinker | 👨‍💻 Still a hands-on Coder
 
 Engineer by training. Builder by instinct. Leader by responsibility.
 
