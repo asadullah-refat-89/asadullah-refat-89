@@ -5,13 +5,26 @@
 
 Engineer by training. Builder by instinct. Leader by responsibility.
 
-For over a decade, I’ve been designing, breaking, fixing, and scaling software systems… and the humans brave enough to build them with me. I live where **technology, people, and business reality collide**. Titles change. Craft doesn’t.
+For 11+ years, I’ve been designing, breaking, fixing, and scaling software systems (and the humans brave enough to build them with me). I work where **technology, people, and business reality collide**. Titles change. Craft doesn’t.
 
-Currently, I’m the **Vice President of Engineering at Creolytix GmbH (Germany 🇩🇪)**, building platforms for **operational resilience**… real-time risk detection, analytics, and incident response. Because production doesn’t care about your feelings.
+Currently, I’m the **Vice President of Engineering at Creolytix GmbH (Germany 🇩🇪)**, building platforms for **operational resilience**: real-time risk detection, analytics, and incident response.
 
 Despite the leadership role and the occasional stage talk, I still code. A lot. Probably more than is medically advised (Wrote 1.8M+ lines of code in 2025) 😅!
 
 ![](https://komarev.com/ghpvc/?username=asadullahrifat89)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/asadullah-refat)
+
+---
+
+## 🧩 What I help teams build
+I’m dedicated to helping startups and product teams ship **robust MVPs** that are pragmatic today and scalable tomorrow.
+
+- ✅ Product thinking + system design for real-world constraints  
+- ✅ Pre-sales engineering, requirement engineering, feasibility analysis  
+- ✅ Clean code practices and architecture that teams can evolve  
+- ✅ Roadmaps that connect business outcomes to execution  
+- ✅ High-trust teams with strong communication and ownership  
 
 ---
 
@@ -47,7 +60,7 @@ Old-school fundamentals… modern execution. No shortcuts.
 ## 🧰 Tech stack (battle-tested, not hype-driven)
 
 ### 🧠 Languages I think in
-`C#` `TypeScript` `SQL` `MongoDB`
+`C#` `TypeScript` `SQL` `MongoDB` `XAML`
 
 ### 🖥 Front-end
 - **Desktop:**  
@@ -62,13 +75,16 @@ Old-school fundamentals… modern execution. No shortcuts.
   [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) • [.NET MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui) •  
   [Uno Platform](https://platform.uno/uno-platform-for-ios-and-android/)
 
+- **UI Toolkits:** Telerik • Dev Express • MudBlazor  
+- **Reporting:** RDLC • Dev Express Xtra Reporting • Telerik Reporting  
+
 ---
 
 ### 🔧 Back-end (where things get serious)
 - **Framework:** [ASP.NET Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)
 - **Databases:**  
   [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) •  
-  [LiteDB](https://www.litedb.org/) • [SQLite](https://www.sqlite.org/index.html)
+  [LiteDB](https://www.litedb.org/) • [SQLite](https://www.sqlite.org/index.html) • Elasticsearch
 
 - **Architectures:**  
   [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)  
@@ -79,6 +95,14 @@ Old-school fundamentals… modern execution. No shortcuts.
   [SignalR](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr) •  
   [RabbitMQ](https://www.rabbitmq.com/) • TCP/IP •  
   [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+
+---
+
+### ⚙️ Dev ecosystem (shipping matters)
+- **Code:** Git • BitBucket • Azure DevOps Server  
+- **PM:** Jira Scrum Boards • Azure Boards  
+- **CI/CD:** IIS • Azure Pipelines • Github Actions • Github Pages  
+- **Frameworks:** .NET 8 • .NET 6 • .NET 7 • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework  
 
 ---
 
@@ -99,6 +123,33 @@ Old-school fundamentals… modern execution. No shortcuts.
 - 🧑‍🏫 Mentoring engineers into confident problem-solvers
 - ⚖️ Risk-taking with a calculator, not vibes
 - 🧘 Keeping teams calm when systems are on fire
+
+---
+
+## 🏗️ Career snapshot
+- **VP of Engineering** (Jan 2025 to Present) · **Creolytix GmbH**  
+  Leading engineering, product, and system design initiatives with a focus on scalable architecture, process excellence, security, and governance.
+
+- **Head of Business Operations & Engineering (GenesisX)** (Jan 2024 to Dec 2024) · **SELISE Digital Platforms**  
+  Pre-sales engineering, product delivery, engineering leadership, hiring, and roadmap strategy.
+
+- **Senior Solution Architect** (Jan 2023 to Dec 2023) · **SELISE Digital Platforms**  
+  Strategy, consultancy, feasibility analysis, and POCs across WebAssembly, real-time systems, and distributed architectures.
+
+- **Staff Software Engineer** (Sep 2022 to Dec 2022) · **SELISE Digital Platforms**  
+  Product development, new business, process improvement, and R&D.
+
+- **Sr. Software Engineer / Staff Software Engineer** (Sep 2020 to Aug 2022) · **SELISE Digital Platforms**  
+  Microservices, platform services, and real-time systems using .NET, MongoDB, RabbitMQ, SignalR, and Blazor WASM.
+
+- **Sr. Software Engineer** (Jul 2017 to Aug 2020) · **3S - Software, Service & Solution**  
+  WPF, Xamarin, ASP.NET Web API, SQL Server, SignalR, Telerik, Dev Express.
+
+- **Software Engineer** (Feb 2017 to Jun 2017) · **GOBD**  
+  Angular 2, .NET Core, MongoDB, TypeScript.
+
+- **Programmer Analyst** (Nov 2013 to Jan 2017) · **Computer Ease Ltd.**  
+  Enterprise apps with .NET, WCF, SQL Server, MVVM PRISM, Silverlight, XAML.
 
 ---
 
