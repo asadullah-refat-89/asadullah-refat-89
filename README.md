@@ -28,7 +28,7 @@
 
 <table align="center">
   <tr>
-    <td align="center"><a href="#-hi-im-asadullah-refat">INTRO</a></td>
+    <td align="center"><a href="#-intro">INTRO</a></td>
     <td align="center"><a href="#-how-my-brain-is-wired">MINDSET</a></td>
     <td align="center"><a href="#-tech-arsenal-battle-tested-not-hype-driven">TECH</a></td>
     <td align="center"><a href="#-timeline-11-years-in-the-trenches">TIMELINE</a></td>
