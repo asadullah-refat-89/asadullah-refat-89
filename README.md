@@ -212,6 +212,7 @@ Old-school fundamentals. Modern execution. No shortcuts.
 Startups, scale-ups, enterprises. Same fundamentals, different scars.
 
 ## 🗓 Timeline (12 years in the trenches)
+<img width="1584" height="396" alt="New LinkedIn Banner with Wider Panels (1)" src="https://github.com/user-attachments/assets/036d9cd5-20e3-4def-a2e9-9be50b7de2af" />
 
 <table>
   <tr>
