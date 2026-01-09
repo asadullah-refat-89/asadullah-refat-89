@@ -33,7 +33,7 @@
     <td align="center"><a href="#-tech-arsenal-battle-tested-not-hype-driven">TECH</a></td>
     <td align="center"><a href="#-timeline-11-years-in-the-trenches">TIMELINE</a></td>
     <td align="center"><a href="#-arcade-mode-projects-i-build-for-fun">ARCADE</a></td>
-    <td align="center"><a href="#-featured-highlights-yes-people-noticed">FEATURED</a></td>
+    <td align="center"><a href="#-featured-highlights">FEATURED</a></td>
     <td align="center"><a href="#-lets-connect">CONNECT</a></td>
   </tr>
 </table>
