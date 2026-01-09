@@ -119,8 +119,9 @@ Old-school fundamentals. Modern execution. No shortcuts.
   <tr>
     <td>
 
-- C# 11  
-- XAML  
+- C# 
+- XAML
+- SQL 
 - TypeScript  
 
     </td>
