@@ -94,6 +94,13 @@ Old-school fundamentals. Modern execution. No shortcuts.
 - 🌏 Originally from **Dhaka, Bangladesh**
 - 🕰 Built teams across time zones, cultures, and caffeine levels
 
+## ✍️ Featured highlights
+- ⭐ [Lisbon Web Summit - Startup Showcase 2025](https://www.linkedin.com/posts/creolytix_two-weeks-ago-during-the-startup-showcase-activity-7399726250228867072-Z7ab?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAwBV9sBAqJneI0M-9scLa23tLdWkW3x7BU)
+- ⭐ [Coffee Break at SELISE: GenesisX](https://www.facebook.com/watch/?v=688355650352217&rdid=Ey80M4JaNHijeQxV)
+- ⭐ [10 days of game development with Uno Platform, WebAssembly & C#](https://platform.uno/blog/10-days-of-game-development-with-uno-platform-webassembly-and-c/)
+- ⭐ [A space shooter game on the web with C# & WASM](https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/)
+- ⭐ [Featured on WASM Weekly](https://twitter.com/WasmWeekly/status/1560266404171231232)
+
 ## 🧰 Tech arsenal (battle-tested, not hype-driven)
 
 <table>
@@ -369,14 +376,6 @@ Startups, scale-ups, enterprises. Same fundamentals, different scars.
 </p>
 
 -->
-
-## ✍️ Featured highlights
-- ⭐ [Lisbon Web Summit - Startup Showcase 2025](https://www.linkedin.com/posts/creolytix_two-weeks-ago-during-the-startup-showcase-activity-7399726250228867072-Z7ab?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAwBV9sBAqJneI0M-9scLa23tLdWkW3x7BU)
-- ⭐ [Coffee Break at SELISE: GenesisX](https://www.facebook.com/watch/?v=688355650352217&rdid=Ey80M4JaNHijeQxV)
-- ⭐ [10 days of game development with Uno Platform, WebAssembly & C#](https://platform.uno/blog/10-days-of-game-development-with-uno-platform-webassembly-and-c/)
-- ⭐ [A space shooter game on the web with C# & WASM](https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/)
-- ⭐ [Featured on WASM Weekly](https://twitter.com/WasmWeekly/status/1560266404171231232)
-
 
 ## 🤔 A few honest quirks
 
