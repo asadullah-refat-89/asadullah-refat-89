@@ -202,14 +202,14 @@ Old-school fundamentals. Modern execution. No shortcuts.
   </tr>
 </table>
 
-## 🏢 Places I’ve built things
+<!-- ## 🏢 Places I’ve built things
 - [Creolytix](https://creolytix.io/)
 - [SELISE Digital Platforms](https://selisegroup.com/)
 - [3S-Software, Service & Solution](https://3ssoftltd.com)
 - [GoBD](https://futurestartup.com/2015/05/20/this-startup-aims-to-solve-dhakas-traffic-problem-with-an-app-but-there-is-more-to-it/)
 - [Computer Ease Ltd](https://www.celimited.com/)
+-->
 
-Startups, scale-ups, enterprises. Same fundamentals, different scars.
 
 ## 🗓 Timeline (12 years in the trenches)
 <img width="1584" height="396" alt="New LinkedIn Banner with Wider Panels (1)" src="https://github.com/user-attachments/assets/036d9cd5-20e3-4def-a2e9-9be50b7de2af" />
@@ -222,12 +222,12 @@ Startups, scale-ups, enterprises. Same fundamentals, different scars.
   </tr>
   <tr>
     <td>2025 - Present</td>
-    <td><b>Vice President of Engineering</b> (Creolytix GmbH)</td>
+    <td><b>Vice President of Engineering</b> (Creolytix) https://creolytix.io/ </td>
     <td>Architecture, scalable secure systems, engineering excellence, governance, cross-functional delivery</td>
   </tr>
   <tr>
     <td>2024</td>
-    <td><b>Head of Business Operations & Engineering</b> (GenesisX, SELISE)</td>
+    <td><b>Head of Business Operations & Engineering</b> (GenesisX, SELISE) https://selisegroup.com/</td>
     <td>Pre-sales engineering, hiring, product development, roadmaps, architecture guidance, delivery discipline</td>
   </tr>
   <tr>
@@ -247,7 +247,7 @@ Startups, scale-ups, enterprises. Same fundamentals, different scars.
   </tr>
   <tr>
     <td>2017 - 2020</td>
-    <td><b>Sr. Software Engineer</b> (3S)</td>
+    <td><b>Sr. Software Engineer</b> (3S) https://3ssoftltd.com</td>
     <td>WPF/Xamarin + ASP.NET Web API, ERP + reporting platforms, analytics apps</td>
   </tr>
   <tr>
@@ -257,10 +257,12 @@ Startups, scale-ups, enterprises. Same fundamentals, different scars.
   </tr>
   <tr>
     <td>2013 - 2017</td>
-    <td><b>Programmer Analyst</b> (Computer Ease Ltd.)</td>
+    <td><b>Programmer Analyst</b> (Computer Ease Ltd.) https://www.celimited.com/</td>
     <td>Hospital ERP, accounting systems, workflow systems (XAML, WCF, SQL Server)</td>
   </tr>
 </table>
+
+Startups, scale-ups, enterprises. Same fundamentals, different scars.
 
 ## 🧪 Open-source highlights (the neon shelf)
 
