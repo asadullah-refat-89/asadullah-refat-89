@@ -1,4 +1,4 @@
-<!-- ![creolytix_cover](https://github.com/user-attachments/assets/c3d60b67-104b-4103-bd4b-6ca18c5f9b5e) -->
+![creolytix_cover](https://github.com/user-attachments/assets/c3d60b67-104b-4103-bd4b-6ca18c5f9b5e)
 
 <!-- ────────────────────────────────  S Y N T H W A V E  ──────────────────────────────── -->
 
