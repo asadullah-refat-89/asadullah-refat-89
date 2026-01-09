@@ -54,6 +54,8 @@ Currently, I’m the **Vice President of Engineering at Creolytix GmbH (Germany 
 
 Despite the leadership role and the occasional stage talk, I still code. A lot. Probably more than is medically advised (Wrote 1.8M+ lines of code in 2025) 😅!
 
+🔗 [My GitHub Professional Account](https://github.com/refat-asadullah-creolytix-dev) Where I actually code for a living.
+
 ## 🧭 How my brain is wired
 
   🧱 Strong systems outlive strong individuals                             
