@@ -37,7 +37,7 @@
 </p>
 
 <!-- ![creolytix_cover](https://github.com/user-attachments/assets/c3d60b67-104b-4103-bd4b-6ca18c5f9b5e) -->
-<img width="1584" height="396" alt="New LinkedIn Banner with Wider Panels (1)" src="https://github.com/user-attachments/assets/c252dc10-0b16-4a7c-b713-2e5a77db53a4" />
+<!-- <img width="1584" height="396" alt="New LinkedIn Banner with Wider Panels (1)" src="https://github.com/user-attachments/assets/c252dc10-0b16-4a7c-b713-2e5a77db53a4" />  -->
 
 <p align="center">
   <img width="100%" alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer" />
