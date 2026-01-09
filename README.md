@@ -4,8 +4,6 @@
   <img width="100%" alt="synthwave-header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=👋Hi!%20I'm%20Refat&fontSize=58&animation=fadeIn&fontAlignY=35" />
 </p>
 
-
-
 <p align="center">
   <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=30&pause=900&color=7f52ff&center=true&vCenter=true&width=960&lines=VP+of+Engineering+%7C+Systems+Thinker+%7C+Still+a+hands-on+Coder;Architecting+scalable+systems+that+survive+production;Old-school+fundamentals+%2B+modern+execution+%3D+my+happy+place" />
 </p>
