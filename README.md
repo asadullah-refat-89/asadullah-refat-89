@@ -394,9 +394,6 @@ Startups, scale-ups, enterprises. Same fundamentals, different scars.
 ## 🤝 Let’s connect
 
 If you care about **real engineering**, **calm leadership**, and **building things that last**, we’ll get along.
-
-🔗 [LinkedIn](https://www.linkedin.com/in/asadullah-refat)
-
 > *Craft matters. People matter. Everything else is noise.*
 
 <p align="center">
