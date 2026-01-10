@@ -211,7 +211,7 @@ Old-school fundamentals. Modern execution. No shortcuts.
 -->
 
 
-## 🗓 Timeline (12 years in the trenches)
+## 🗓 Timeline (12 years in the grind)
 <img width="1584" height="396" alt="New LinkedIn Banner with Wider Panels (1)" src="https://github.com/user-attachments/assets/036d9cd5-20e3-4def-a2e9-9be50b7de2af" />
 
 <table>
