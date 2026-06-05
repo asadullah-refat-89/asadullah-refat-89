@@ -1,401 +1,196 @@
-<!-- ────────────────────────────────  S Y N T H W A V E  ──────────────────────────────── -->
-
-<p align="center">
-  <img width="100%" alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer" />
-</p>
-
-<p align="center">
-  <img width="100%" alt="synthwave-header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=👋Hi!%20I'm%20Refat&fontSize=58&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=30&pause=900&color=7f52ff&center=true&vCenter=true&width=960&lines=Solution+Architecture+%7C+System+Design+%7C+Product+Design;Architecting+scalable+systems+that+survive+production;Old-school+fundamentals+%2B+modern+execution+%3D+my+happy+place" />
-</p>
-
-<!-- ─────────────────────────────────  Q U I C K  N A V  ───────────────────────────────── -->
-
-<!--<table align="center">
-  <tr>
-    <td align="center"><a href="#-who-am-i">INTRO</a></td>
-    <td align="center"><a href="#-how-my-brain-is-wired">MINDSET</a></td>
-    <td align="center"><a href="#-tech-arsenal-battle-tested-not-hype-driven">TECH</a></td>
-    <td align="center"><a href="#-timeline-11-years-in-the-trenches">TIMELINE</a></td>
-    <td align="center"><a href="#-arcade-mode-projects-i-build-for-fun">ARCADE</a></td>
-    <td align="center"><a href="#-featured-highlights">FEATURED</a></td>
-    <td align="center"><a href="#-lets-connect">CONNECT</a></td>
-  </tr>
-</table>-->
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/asadullah-refat">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Asadullah%20Refat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=asadullah-refat-89&style=for-the-badge" />
-  <img alt="CSharp" src="https://img.shields.io/badge/C%23-11-7F52FF?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img alt="dotnet" src="https://img.shields.io/badge/.NET-8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-00D4FF?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-<!-- <img width="1584" height="396" alt="New LinkedIn Banner with Wider Panels (1)" src="https://github.com/user-attachments/assets/c252dc10-0b16-4a7c-b713-2e5a77db53a4" />  -->
-
-<p align="center">
-  <img width="100%" alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer" />
-</p>
-
-## 🕶️ Who am I
-![creolytix_cover](https://github.com/user-attachments/assets/c3d60b67-104b-4103-bd4b-6ca18c5f9b5e)
-🚀 VP of Engineering @ Creolytix GmbH | 🧠 Systems Thinker | 👨‍💻 Still a hands-on Coder
-
-Engineer by training. Builder by instinct. Leader by responsibility.
-
-For over a decade, I’ve been designing, breaking, fixing, and scaling software systems and the humans brave enough to build them with me. I live where **technology, people, and business reality collide**. Titles change. Craft doesn’t.
-
-Currently, I’m the **Vice President of Engineering at Creolytix GmbH (Germany 🇩🇪)**, building platforms for **operational resilience**: real-time risk detection, analytics, and incident response. Because production doesn’t care about your feelings.
-
-Despite the leadership role and the occasional stage talk, I still code. A lot. Probably more than is medically advised (Wrote 1.8M+ lines of code in 2025) 😅!
-
-🔗 [My GitHub Professional Account](https://github.com/refat-asadullah-creolytix-dev) Where I actually code for a living.
-
-## 🧭 How my brain is wired
-
-  🧱 Strong systems outlive strong individuals                             
-  🧼 Clean code > clever code                                              
-  📐 Architecture is a business decision                                   
-  🤝 Leadership without empathy is just noise                              
-  📈 Discipline compounds, excuses don’t                                   
-
-Old-school fundamentals. Modern execution. No shortcuts.
-
-## 🛠 What I actually do (between meetings)
-
-<table>
-  <tr>
-    <td width="50%">
-
-### 🧩 Build the machine
-- Architect **scalable, secure systems** that survive production  
-- Turn business chaos into **technical strategy & roadmaps**  
-- Drive **UX and engineering culture**  
-- Solve hard problems with calm execution  
-
-    </td>
-    <td width="50%">
-
-### 👥 Build the crew
-- Build & mentor **high-performing engineering teams**  
-- Keep delivery consistent (sprints, estimation, outcomes)  
-- Raise the bar on quality, craftsmanship, and ownership  
-- Stay hands-on, because credibility matters  
-
-    </td>
-  </tr>
-</table>
-
-## 🌍 Where I operate from
-- 📍 Living and working in **Munich, Germany**
-- 🌏 Originally from **Dhaka, Bangladesh**
-- 🕰 Built teams across time zones, cultures, and caffeine levels
-
-## ✍️ Featured highlights
-- ⭐ [Lisbon Web Summit - Startup Showcase 2025](https://www.linkedin.com/posts/creolytix_two-weeks-ago-during-the-startup-showcase-activity-7399726250228867072-Z7ab?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAwBV9sBAqJneI0M-9scLa23tLdWkW3x7BU)
-- ⭐ [Coffee Break at SELISE: GenesisX](https://www.facebook.com/watch/?v=688355650352217&rdid=Ey80M4JaNHijeQxV)
-- ⭐ [10 days of game development with Uno Platform, WebAssembly & C#](https://platform.uno/blog/10-days-of-game-development-with-uno-platform-webassembly-and-c/)
-- ⭐ [A space shooter game on the web with C# & WASM](https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/)
-- ⭐ [Featured on WASM Weekly](https://twitter.com/WasmWeekly/status/1560266404171231232)
-
-## 🧰 Tech arsenal (battle-tested, not hype-driven)
-
-<table>
-  <tr>
-    <th align="left">🧠 Languages</th>
-    <th align="left">🖥 Front-end</th>
-    <th align="left">🔧 Back-end</th>
-    <th align="left">⚙️ Ecosystem</th>
-  </tr>
-  <tr>
-    <td>
-
-- C# 
-- XAML
-- SQL 
-- TypeScript  
-
-    </td>
-    <td>
-
-**Desktop:**  
-- [Uno Platform](https://platform.uno/) • [WinUI 3](https://docs.microsoft.com/en-us/windows/apps/winui/) • [WPF](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-6.0)
-
-**Web:**  
-- [PixiJS](https://pixijs.io/) • [Blazor WASM](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) • [Uno WASM](https://platform.uno/uno-platform-for-web-webassembly/) • [Open Silver](https://opensilver.net/) • [ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc) • [React](https://react.dev/)
-
-**Mobile:**  
-- [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) • [.NET MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui) • [Uno Platform](https://platform.uno/uno-platform-for-ios-and-android/)
-
-**UI toolkits:**  
-- Telerik • Dev Express • MudBlazor
-
-**Reporting:**  
-- RDLC • Dev Express Xtra Reporting • Telerik Reporting
-
-    </td>
-    <td>
-
-**Framework:**  
-- [ASP.NET Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)
-
-**Databases:**  
-- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) • [LiteDB](https://www.litedb.org/) • [SQLite](https://www.sqlite.org/index.html) • [Elasticsearch](https://www.elastic.co/elasticsearch)
-
-**Architectures:**  
-- [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
-
-**Comms:**  
-- [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [SignalR](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr) • [RabbitMQ](https://www.rabbitmq.com/) • TCP/IP • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-
-    </td>
-    <td>
-
-**Repo:**  
-- Git • BitBucket • Azure DevOps Server
-
-**PM:**  
-- Jira Scrum Boards • Azure Boards • GitHub Boards
-
-**CI/CD:**  
-- IIS • Azure Pipelines • Github Actions • Github Pages
-
-**System styles:**  
-- Monoliths and Microservices (I don’t worship either)
-
-    </td>
-  </tr>
-</table>
-
-## 🧠 Patterns & principles I refuse to compromise on
-
-<table>
-  <tr>
-    <td width="50%">
-
-### 🧩 Patterns
-- [Mediator](https://en.wikipedia.org/wiki/Mediator_pattern)  
-- [Bridge](https://en.wikipedia.org/wiki/Bridge_pattern)  
-- [CQRS](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation#Command_Query_Responsibility_Separation)  
-- [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)  
-- [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)  
-- [SAGA](https://microservices.io/patterns/data/saga.html)  
-- [Event Sourcing](https://microservices.io/patterns/data/event-sourcing.html)  
-
-    </td>
-    <td width="50%">
-
-### 🧱 Principles
-- [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)  
-- [DDD](https://en.wikipedia.org/wiki/Domain-driven_design)  
-- [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)  
-- [ACID](https://en.wikipedia.org/wiki/ACID)  
-
-**Frameworks I ship with:**  
-- .NET 8 • .NET 6 • .NET 7 • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
-
-    </td>
-  </tr>
-</table>
-
-<!-- ## 🏢 Places I’ve built things
-- [Creolytix](https://creolytix.io/)
-- [SELISE Digital Platforms](https://selisegroup.com/)
-- [3S-Software, Service & Solution](https://3ssoftltd.com)
-- [GoBD](https://futurestartup.com/2015/05/20/this-startup-aims-to-solve-dhakas-traffic-problem-with-an-app-but-there-is-more-to-it/)
-- [Computer Ease Ltd](https://www.celimited.com/)
+<!--
+  GitHub profile README for: refat-asadullah-creolytix-dev
+  Professional, recruiter-facing redesign. Consistent with CV + LinkedIn.
+  Replace [live demo URL] placeholders with hosted/GitHub Pages links when available.
 -->
 
-
-## 🗓 Timeline (12 years in the grind)
-<img width="1584" height="396" alt="New LinkedIn Banner with Wider Panels (1)" src="https://github.com/user-attachments/assets/036d9cd5-20e3-4def-a2e9-9be50b7de2af" />
-
-<table>
-  <tr>
-    <th align="left">Year</th>
-    <th align="left">Role</th>
-    <th align="left">Focus</th>
-  </tr>
-  <tr>
-    <td>2025 - Present</td>
-    <td><b>Vice President of Engineering</b> (Creolytix) https://creolytix.io/ </td>
-    <td>Architecture, scalable secure systems, engineering excellence, governance, cross-functional delivery</td>
-  </tr>
-  <tr>
-    <td>2024</td>
-    <td><b>Head of Business Operations & Engineering</b> (GenesisX, SELISE) https://selisegroup.com/</td>
-    <td>Pre-sales engineering, hiring, product development, roadmaps, architecture guidance, delivery discipline</td>
-  </tr>
-  <tr>
-    <td>2023</td>
-    <td><b>Senior Solution Architect</b> (SELISE)</td>
-    <td>Consulting, feasibility, pitches, stakeholder engagement, R&D and POCs</td>
-  </tr>
-  <tr>
-    <td>2022</td>
-    <td><b>Staff Software Engineer</b> (SELISE)</td>
-    <td>WebAssembly products, real-time systems, product design and new business development</td>
-  </tr>
-  <tr>
-    <td>2020 - 2022</td>
-    <td><b>Sr. Software Engineer</b> (SELISE)</td>
-    <td>Microservices, SignalR, RabbitMQ, Blazor WASM, platform services (workflow, scheduler, email sync)</td>
-  </tr>
-  <tr>
-    <td>2017 - 2020</td>
-    <td><b>Sr. Software Engineer</b> (3S) https://3ssoftltd.com</td>
-    <td>WPF/Xamarin + ASP.NET Web API, ERP + reporting platforms, analytics apps</td>
-  </tr>
-  <tr>
-    <td>2017</td>
-    <td><b>Software Engineer</b> (GoBD)</td>
-    <td>Angular 2 + .NET Core + MongoDB logistics platform</td>
-  </tr>
-  <tr>
-    <td>2013 - 2017</td>
-    <td><b>Programmer Analyst</b> (Computer Ease Ltd.) https://www.celimited.com/</td>
-    <td>Hospital ERP, accounting systems, workflow systems (XAML, WCF, SQL Server)</td>
-  </tr>
-</table>
-
-Startups, scale-ups, enterprises. Same fundamentals, different scars.
-
-## 🧪 Open-source highlights (the neon shelf)
-
-<table>
-  <tr>
-    <td width="33%">
-
-### 🌌 Framework love
-- [Uno Platform](https://platform.uno/)  
-  Cross-platform apps across Windows, Web/WebAssembly, iOS, macOS, Android, Linux from one C# + XAML codebase.
-
-    </td>
-    <td width="33%">
-
-### 🧱 Architecture + backend
-- [asadullah-refat-89/dotnet-essential-services (github.com)](https://github.com/asadullah-refat-89/dotnet-essential-services)  
-  Minimal API, DDD, clean architecture patterns.
-
-    </td>
-    <td width="33%">
-
-### 🎮 WebGL + fun
-- [asadullah-refat-89/honk-buster-game-pixijs (github.com)](https://github.com/asadullah-refat-89/honk-buster-game-pixijs)  
-  Cross-platform arcade vibes with PixiJS + WebGL.
-
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%">
-
-### 🚀 WASM arcade experiments
-- [asadullah-refat-89/astro-odyssey-uno-platform (github.com)](https://github.com/asadullah-refat-89/Astro-Odyssey-Uno-Platform)  
-- [asadullah-refat-89/phototis-uno-platform (github.com)](https://github.com/asadullah-refat-89/Phototis-Uno-Platform)
-
-    </td>
-    <td width="50%">
-
-### 🧠 Real-time + social retro
-- [asadullah-refat-89/Worldescape (github.com)](https://github.com/asadullah-refat-89/Worldescape)  
-  Retro 2D platformer with WebAssembly + SignalR + OpenSilver.
-
-    </td>
-  </tr>
-</table>
-
-## 🎮 Arcade mode (projects I build for fun)
-
-> Zero Jira tickets. Maximum curiosity.
-
-<table>
-  <tr>
-    <th align="left">Cabinet</th>
-    <th align="left">Link</th>
-    <th align="left">Vibe</th>
-  </tr>
-  <tr>
-    <td>🕹 Honky Roads (PixiJS)</td>
-    <td><a href="https://github.com/asadullah-refat-89/honk-buster-game-pixijs">github.com/asadullah-refat-89/honk-buster-game-pixijs</a></td>
-    <td>WebGL arcade energy</td>
-  </tr>
-  <tr>
-    <td>🕹 Honk-Buster (Uno Platform)</td>
-    <td><a href="https://github.com/asadullah-refat-89/honk-buster-game-uno-platform">github.com/asadullah-refat-89/honk-buster-game-uno-platform</a></td>
-    <td>Cross-platform, C# powered</td>
-  </tr>
-  <tr>
-    <td>🕹 Astro-Odyssey</td>
-    <td><a href="https://github.com/asadullah-refat-89/Astro-Odyssey-Uno-Platform">github.com/asadullah-refat-89/Astro-Odyssey-Uno-Platform</a></td>
-    <td>Space shooter, WASM goodness</td>
-  </tr>
-  <tr>
-    <td>🕹 Candy-Craze</td>
-    <td><a href="https://github.com/asadullah-refat-89/candy-craze-uno-platform">github.com/asadullah-refat-89/candy-craze-uno-platform</a></td>
-    <td>Sweet chaos</td>
-  </tr>
-  <tr>
-    <td>🕹 Hungry-Worm</td>
-    <td><a href="https://github.com/asadullah-refat-89/hungry-worm-uno-platform">github.com/asadullah-refat-89/hungry-worm-uno-platform</a></td>
-    <td>Classic arcade loop</td>
-  </tr>
-  <tr>
-    <td>🕹 Sky-Way</td>
-    <td><a href="https://github.com/asadullah-refat-89/sky-way-uno-platform">github.com/asadullah-refat-89/sky-way-uno-platform</a></td>
-    <td>Fast reflex runway</td>
-  </tr>
-  <tr>
-    <td>🕹 Memory-Match</td>
-    <td><a href="https://github.com/asadullah-refat-89/memory-match-uno-platform">github.com/asadullah-refat-89/memory-match-uno-platform</a></td>
-    <td>Pattern lock-in</td>
-  </tr>
-  <tr>
-    <td>🕹 Honk-Hero</td>
-    <td><a href="https://github.com/asadullah-refat-89/honk-hero-uno-platform">github.com/asadullah-refat-89/honk-hero-uno-platform</a></td>
-    <td>Arcade hero run</td>
-  </tr>
-  <tr>
-    <td>🕹 Phototis</td>
-    <td><a href="https://github.com/asadullah-refat-89/Phototis-Uno-Platform">github.com/asadullah-refat-89/Phototis-Uno-Platform</a></td>
-    <td>Photo editing studio in WASM</td>
-  </tr>
-</table>
-
-<!--## 📊 The neon dashboard
-
 <p align="center">
-  <img height="165" alt="stats" src="https://github-readme-stats.vercel.app/api?username=asadullah-refat-89&show_icons=true&hide_title=true&rank_icon=github" />
-  <img height="165" alt="streak" src="https://streak-stats.demolab.com?user=asadullah-refat-89" />
+  <img width="100%" alt="Refat Asadullah" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f3b5b,100:2e5f8a&height=180&section=header&text=Refat%20Asadullah&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=VP%20of%20Engineering%20%C2%B7%20Creolytix%20(an%20F24%20company)&descSize=18&descAlignY=60" />
 </p>
 
 <p align="center">
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=asadullah-refat-89&row=1&column=7&margin-w=10&margin-h=10" />
+  <img alt="what I do" src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=2E5F8A&center=true&vCenter=true&width=820&lines=VP+of+Engineering+%C2%B7+Systems+Thinker+%C2%B7+Hands-on+Coder;Architecting+systems+that+survive+production;Old-school+fundamentals+%2B+modern+execution" />
 </p>
 
--->
-
-## 🤔 A few honest quirks
-
-- 😎 Ambivert, selectively social  
-- 🧐 Precision addict, procrastination hater  
-- ✍️ Comments explain **why**, not **what**  
-- ☕ Coffee-powered problem solver  
-- 🌙 Curiosity occasionally steals my sleep  
-
-
-
-## 🤝 Let’s connect
-
-If you care about **real engineering**, **calm leadership**, and **building things that last**, we’ll get along.
-> *Craft matters. People matter. Everything else is noise.*
+<p align="center">
+  <b>I build engineering organizations and the platforms they ship, across fintech, healthcare, e-signature, logistics, manufacturing, and risk intelligence.</b>
+</p>
 
 <p align="center">
-  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=fadeIn" />
+  <a href="https://www.linkedin.com/in/asadullah-refat/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:asadullah.refat@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-asadullah.refat@gmail.com-2e5f8a?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/asadullah-refat-89"><img alt="Open source" src="https://img.shields.io/badge/Open%20Source-asadullah--refat--89-24292e?style=flat-square&logo=github&logoColor=white" /></a>
+  <img alt="Location" src="https://img.shields.io/badge/Munich,%20Germany-5b6770?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1f3b5b,100:2e5f8a&height=2&section=footer" alt="" />
+
+## 👋 About
+
+Engineering leader with 11+ years building software and the teams that ship it. I founded a startup that was acquired, scaled engineering organizations from scratch, and led teams through an [acquisition by F24](https://f24.com/en/press-release-creolytix/), while staying close to the architecture and the code.
+
+Today I am VP of Engineering at **[Creolytix](https://creolytix.io/) (an F24 company)**, building enterprise risk intelligence and operational-resilience SaaS: risk monitoring, threat analysis, and real-time alerting. I lead through credibility rather than ceremony, and I care about systems and people that outlast any single individual.
+
+---
+
+## 🧠 How my brain is wired
+
+- 🧱 Strong systems outlive strong individuals
+- 🧼 Clean code > clever code
+- 📐 Architecture is a business decision
+- 🤝 Leadership without empathy is just noise
+- 📈 Discipline compounds; excuses don't
+- 👨‍💻 Still hands-on: titles change, craft doesn't
+
+---
+
+## 📊 Impact, by the numbers
+
+| | |
+|---|---|
+| Led a **25-person** org across **4 squads**, with **3 managers** reporting in | **CHF 2.6M+** revenue driven via pre-sales, architecture, delivery |
+| **227** features shipped to production in H1 2026 (lean team of 7) | **99.9%** uptime across **20+** enterprise tenants and **500+** users |
+| **30K+** events/day into real-time alerts | **85K+** notifications/day across SMS, WhatsApp, MS Teams, push |
+| Fully delivered a marquee **SIEMENS** contract | Led engineering through **[acquisition by F24](https://f24.com/en/press-release-creolytix/)** |
+
+> During the **2026 Iran–Israel war**, enterprise customer **Innomotics** relied on **Creolytix** to protect staff and keep emergency field repairs running for energy clients like **Qatar Energy** and **Adnoc**.
+
+---
+
+## 🌍 Industry footprint
+
+![Risk Intelligence](https://img.shields.io/badge/Risk%20Intelligence-1f3b5b?style=for-the-badge)
+![Fintech](https://img.shields.io/badge/Fintech-1f3b5b?style=for-the-badge)
+![Insurtech](https://img.shields.io/badge/Insurtech-1f3b5b?style=for-the-badge)
+![Electronic Signature](https://img.shields.io/badge/Electronic%20Signature-1f3b5b?style=for-the-badge)
+![Healthcare](https://img.shields.io/badge/Healthcare-1f3b5b?style=for-the-badge)
+![Retail](https://img.shields.io/badge/Retail-1f3b5b?style=for-the-badge)
+![Food & Beverage](https://img.shields.io/badge/Food%20%26%20Beverage-1f3b5b?style=for-the-badge)
+![Hospitality](https://img.shields.io/badge/Hospitality-1f3b5b?style=for-the-badge)
+![Logistics](https://img.shields.io/badge/Logistics-1f3b5b?style=for-the-badge)
+![Maritime](https://img.shields.io/badge/Maritime-1f3b5b?style=for-the-badge)
+![Manufacturing](https://img.shields.io/badge/Manufacturing-1f3b5b?style=for-the-badge)
+![Telecom](https://img.shields.io/badge/Telecom-1f3b5b?style=for-the-badge)
+
+A decade-plus shipping products across very different industries. A sample of what I built and the impact:
+
+| Industry | What I built · impact |
+|---|---|
+| **Risk intelligence & resilience** | [Creolytix](https://creolytix.io/) platform; 99.9% uptime across 20+ tenants; trusted by SIEMENS and Innomotics |
+| **Fintech & insurtech** | Financial-accounting and ERP-finance systems for SMEs and corporates |
+| **Electronic signature & digital trust** | [SELISE Signature](https://selisesignature.com/): eIDAS / ZertES-qualified e-signature platform (SWISSCOM, SigningHub) |
+| **Healthcare** | Hospital management system (HMS) for a national healthcare provider |
+| **Retail, F&B & hospitality** | Prokriyon ERP (100+ businesses, 50+ sectors); [HOSTT](https://3ssoftltd.com/) POS serving 2,500+ restaurants |
+| **Logistics & maritime** | GO! Fetch logistics-automation platform; [OSM Thome](https://selisegroup.com/selises-expertise-with-microsoft-fabric/) maritime data hub |
+| **Manufacturing & telecom** | Vario Systems (global EMS) manufacturing intelligence; [Sunrise](https://selisegroup.com/onehub-by-selise-enabling-scalable-quote-to-order-processes-for-sunrise/) (Swiss telco) |
+
+---
+
+## 🛠️ What I do
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Leadership
+- Build teams from scratch, and managers who lead them
+- Scale engineering orgs through growth and acquisitions
+- Lean, high-velocity delivery (cut ceremony that chokes performance)
+- Revenue, budget, and vendor ownership
+- Exec and CEO partnership
+
+</td>
+<td width="50%" valign="top">
+
+### Engineering
+- High-throughput, distributed system design
+- Platform and architecture strategy
+- Scalability, reliability, and performance
+- Cloud and data platforms, AI / ML integration
+- Hands-on: still in the architecture and the code
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Selected work
+
+| Project | What it is | Stars |
+|---|---|---|
+| **[SELISE Blocks](https://seliseblocks.com/)** | Core microservices / low-code platform framework I contributed to at SELISE | |
+| **[SELISE Signature](https://selisesignature.com/)** | eIDAS / ZertES-qualified e-signature platform (SWISSCOM, SigningHub) | |
+| **[dotnet-essential-services](https://github.com/asadullah-refat-89/dotnet-essential-services)** | A .NET minimal-API reference for clean, domain-driven architecture (identity, auth, storage, email) | ⭐ 38 |
+| **[astro-odyssey-uno-platform](https://github.com/asadullah-refat-89/Astro-Odyssey-Uno-Platform)** | Cross-platform space shooter in C# + WebAssembly · ▶ [Play in browser](https://asadullah-refat-89.github.io/astro-odyssey-uno-platform/) | ⭐ 25 |
+| **[phototis-uno-platform](https://github.com/asadullah-refat-89/Phototis-Uno-Platform)** | A WebAssembly photo-editing studio · ▶ [Play in browser](https://asadullah-refat-89.github.io/phototis-uno-platform/) | |
+| **[Worldescape](https://github.com/asadullah-refat-89/Worldescape)** | Real-time retro 2D platformer (WASM + SignalR + OpenSilver) | |
+
+More open-source work on my [personal account](https://github.com/asadullah-refat-89).
+
+---
+
+## 🎮 Arcade mode (things I build for fun)
+
+> Casual games in C# + WebAssembly, several built for **SV Group** (a SELISE enterprise client). Most run right in your browser.
+
+| Cabinet | Play / code | Vibe |
+|---|---|---|
+| 🚗 Honky Roads | ▶ [Play](https://asadullah-refat-89.github.io/honk-buster-game-pixijs/) · [code](https://github.com/asadullah-refat-89/honk-buster-game-pixijs) | WebGL arcade energy (PixiJS) |
+| 🚦 Honk-Buster | ▶ [Play](https://asadullah-refat-89.github.io/honk-buster-game-uno-platform/) · [code](https://github.com/asadullah-refat-89/honk-buster-game-uno-platform) | Cross-platform, C# powered |
+| 🪖 Honk-Trooper | ▶ [Play](https://asadullah-refat-89.github.io/honk-trooper-uno-platform/) · [code](https://github.com/asadullah-refat-89/honk-trooper-uno-platform) | Side-scrolling shooter |
+| 🍬 Candy-Craze | ▶ [Play](https://asadullah-refat-89.github.io/candy-craze-uno-platform/) · [code](https://github.com/asadullah-refat-89/candy-craze-uno-platform) | Sweet chaos |
+| 🐛 Hungry-Worm | ▶ [Play](https://asadullah-refat-89.github.io/hungry-worm-uno-platform/) · [code](https://github.com/asadullah-refat-89/hungry-worm-uno-platform) | Classic arcade loop |
+| ✈️ Sky-Way | ▶ [Play](https://asadullah-refat-89.github.io/sky-way-uno-platform/) · [code](https://github.com/asadullah-refat-89/sky-way-uno-platform) | Fast-reflex runway |
+| 🧠 Memory-Match | ▶ [Play](https://asadullah-refat-89.github.io/memory-match-uno-platform/) · [code](https://github.com/asadullah-refat-89/memory-match-uno-platform) | Pattern lock-in |
+| 🦸 Honk-Hero | ▶ [Play](https://asadullah-refat-89.github.io/honk-hero-uno-platform/) · [code](https://github.com/asadullah-refat-89/honk-hero-uno-platform) | Arcade hero run |
+
+---
+
+## 🎤 Recognition and talks
+
+- **Microsoft .NET Conf 2023**: showcased for WebAssembly ecosystem contributions
+- [Lisbon Web Summit 2025: Startup Showcase](https://www.youtube.com/watch?v=P_a1WHIpKHg)
+- [10 days of game development with Uno Platform, WebAssembly & C#](https://platform.uno/blog/10-days-of-game-development-with-uno-platform-webassembly-and-c/)
+- [A space shooter game on the web with C# & WASM](https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/)
+
+---
+
+## 📚 Case studies
+
+Deep-dives on platforms and engagements I led at [SELISE](https://selisegroup.com/):
+
+- [Creolytix: building a new venture in the security space](https://selisegroup.com/elevating-a-new-venture-in-thesecurity-space-with-creolytix/)
+- [OSM Thome: enterprise data platform on Microsoft Fabric](https://selisegroup.com/selises-expertise-with-microsoft-fabric/)
+- [Sunrise: scalable quote-to-order with OneHub](https://selisegroup.com/onehub-by-selise-enabling-scalable-quote-to-order-processes-for-sunrise/)
+- [Sunrise: connecting buildings to the network](https://selisegroup.com/sunrise-connects-buildings-totheir-network-with-selise/)
+- [Multiplatform casual games for SV Group, with WebAssembly & .NET 7](https://selisegroup.com/the-multiplatform-casual-games-using-wasm-and-net-7/)
+- [SiKUBA: advanced security & access-control solution](https://selisegroup.com/delivering-advanced-security-solution-with-selise/)
+
+---
+
+## 🧰 Tech I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,react,azure,mongodb,elasticsearch,redis,sqlite,rabbitmq,git,github,githubactions,visualstudio,vscode,powershell&perline=10" alt="Core tech stack" />
+</p>
+
+**Also across the .NET ecosystem:** Uno Platform · WinUI 3 · WPF · .NET MAUI · Xamarin · Blazor WASM · OpenSilver · PixiJS · MudBlazor · Telerik · DevExpress · SignalR · Quartz.NET · Keycloak · Firebase · SQL Server · LiteDB · Microsoft Fabric · Azure OpenAI · Semantic Kernel
+
+**Architecture & patterns:** Microservices · Event-driven · Domain-driven design · CQRS · SAGA · Event Sourcing · Mediator · Clean / layered architecture · SOLID · DRY · ACID
+
+---
+
+## ☕ A few honest quirks
+
+- 😎 Ambivert, selectively social
+- 🧐 Precision addict, procrastination hater
+- ✍️ My comments explain **why**, not **what**
+- ☕ Coffee-powered problem solver
+- 🌙 Curiosity occasionally steals my sleep
+
+---
+
+<p align="center">
+  <i>Craft matters. People matter. Everything else is noise.</i>
 </p>
