@@ -31,6 +31,12 @@ Engineering leader with 11+ years building software and the teams that ship it. 
 
 Today I am VP of Engineering at **[Creolytix](https://creolytix.io/) (an F24 company)**, building enterprise risk intelligence and operational-resilience SaaS: risk monitoring, threat analysis, and real-time alerting. I lead through credibility rather than ceremony, and I care about systems and people that outlast any single individual.
 
+> *"One of the very few engineers I would honestly call a 10x engineer. His personal output and his multiplier effect on the team both check out."*
+> — **Julian Weber**, CEO, [SELISE Group](https://selisegroup.com/)
+
+> *"I would be very happy to have Refat as the full-time CTO of Behold... I recommend him without hesitation for senior technology, product, engineering, or CTO-level leadership roles."*
+> — **W. James Forward**, Founder & President, [Behold Ventures](https://www.beholdworld.art/)
+
 ---
 
 ## 🧠 How my brain is wired
@@ -71,6 +77,7 @@ Today I am VP of Engineering at **[Creolytix](https://creolytix.io/) (an F24 com
 ![Maritime](https://img.shields.io/badge/Maritime-1f3b5b?style=for-the-badge)
 ![Manufacturing](https://img.shields.io/badge/Manufacturing-1f3b5b?style=for-the-badge)
 ![Telecom](https://img.shields.io/badge/Telecom-1f3b5b?style=for-the-badge)
+![Art-tech & Marketplaces](https://img.shields.io/badge/Art--tech%20%26%20Marketplaces-1f3b5b?style=for-the-badge)
 
 A decade-plus shipping products across very different industries. A sample of what I built and the impact:
 
@@ -83,6 +90,7 @@ A decade-plus shipping products across very different industries. A sample of wh
 | **Retail, F&B & hospitality** | Prokriyon ERP (100+ businesses, 50+ sectors); [HOSTT](https://3ssoftltd.com/) POS serving 2,500+ restaurants |
 | **Logistics & maritime** | GO! Fetch logistics-automation platform; [OSM Thome](https://selisegroup.com/selises-expertise-with-microsoft-fabric/) maritime data hub |
 | **Manufacturing & telecom** | Vario Systems (global EMS) manufacturing intelligence; [Sunrise](https://selisegroup.com/onehub-by-selise-enabling-scalable-quote-to-order-processes-for-sunrise/) (Swiss telco) |
+| **Art-tech & marketplaces** | [Behold World Art Exchange](https://www.beholdworld.art/): mobile-first art discovery + marketplace platform (Behold Ventures) |
 
 ---
 
@@ -121,6 +129,7 @@ A decade-plus shipping products across very different industries. A sample of wh
 |---|---|---|
 | **[SELISE Blocks](https://seliseblocks.com/)** | Core microservices / low-code platform framework I contributed to at SELISE | |
 | **[SELISE Signature](https://selisesignature.com/)** | eIDAS / ZertES-qualified e-signature platform (SWISSCOM, SigningHub) | |
+| **[Behold World Art Exchange](https://www.beholdworld.art/)** | Mobile-first art discovery + marketplace platform; led product, UX & architecture (Behold Ventures) | |
 | **[dotnet-essential-services](https://github.com/asadullah-refat-89/dotnet-essential-services)** | A .NET minimal-API reference for clean, domain-driven architecture (identity, auth, storage, email) | ⭐ 38 |
 | **[astro-odyssey-uno-platform](https://github.com/asadullah-refat-89/Astro-Odyssey-Uno-Platform)** | Cross-platform space shooter in C# + WebAssembly · ▶ [Play in browser](https://asadullah-refat-89.github.io/astro-odyssey-uno-platform/) | ⭐ 25 |
 | **[phototis-uno-platform](https://github.com/asadullah-refat-89/Phototis-Uno-Platform)** | A WebAssembly photo-editing studio · ▶ [Play in browser](https://asadullah-refat-89.github.io/phototis-uno-platform/) | |
